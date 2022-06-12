@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaspae78
 - 👀 I’m interested in ...food, baseball, snoopy
-- 🌱 I’m currently learning ...APEX
+- 🌱 I’m currently learning ...APEX, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
